@@ -47,4 +47,4 @@ public class Prak2Lat2 {
  }
 }
 
-/* program di atas digunakan untuk mencoba operator assigment
+/* program di atas digunakan untuk mencoba operator assigment */
