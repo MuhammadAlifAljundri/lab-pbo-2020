@@ -22,6 +22,19 @@ Pada program ini terdapat 3 menu pilihan yaitu
 3. Lihat Jumlah penumpang
    Berguna melihat total keseluruhan penumpang yang ada di bus saat ini.
 
+RUN
+1. Clone Repository
 
+git clone https://github.com/MuhammadAlifAljundri/lab-pbo-2020.git
+
+2. Compile The Code
+pergi ke direktori dimana file tersimpan, lalu run di cmd/terminal 
+	
+	javac Penumpang.java
+	javac Bus.java
+	javac Main.java
+
+3. Menjalankan program!
+	java Main
 
    
